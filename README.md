@@ -18,7 +18,7 @@ I'm on an exciting learning journey, constantly expanding my knowledge and explo
 
 ## 💡 Fun Fact
 
-Coding is not just about solving problems for me; it's also a creative outlet. When I'm not coding, you can find me creating digital art, playing the guitar, or exploring nature through photography.
+Looking for it..
 
 ## 📫 Get in Touch
 
