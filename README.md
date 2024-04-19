@@ -20,8 +20,8 @@ Coding is not just about solving problems for me; it's also a creative outlet. W
 
 I'm always excited to connect with fellow developers and collaborate on interesting projects. You can reach out to me through the following channels:
 
-- Email: [your-email@example.com](...)
-- LinkedIn: [Your LinkedIn Profile](...)
-- Twitter: [@yourusername](https://twitter.com/Uwhyii)
+- Email: 
+- LinkedIn: 
+- Twitter: https://twitter.com/Uwhyii
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas. Let's create something amazing together!
