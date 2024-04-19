@@ -1,6 +1,6 @@
 # Hi there, I'm Henry 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and exploring new technologies. I believe in the power of collaboration and open-source, and I'm always eager to learn and contribute to exciting projects.
+Welcome to my GitHub profile! I'm passionate about problem-solving,GIS , web3 and exploring new technologies. I believe in the power of collaboration and open-source, and I'm always eager to learn and contribute to exciting projects.
 
 ## 🔭 Currently Working On
 
@@ -10,8 +10,12 @@ I'm currently working on honing my skills becoming a software engineering of the
 
 I'm on an exciting learning journey, constantly expanding my knowledge and exploring new technologies. Currently, I'm focusing on:
 
-- Building responsive and interactive user interfaces
-- 
+- Leaning how Logical Thinking works and using this principles to crack solutions to real world problems.
+
+- Learning how JavaScript work and how it can be applied to building real world problems.
+
+- laying Basic foundation for GIS.
+
 ## 💡 Fun Fact
 
 Coding is not just about solving problems for me; it's also a creative outlet. When I'm not coding, you can find me creating digital art, playing the guitar, or exploring nature through photography.
