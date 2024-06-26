@@ -2,11 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about problem-solving,GIS , web3 and exploring new technologies. I believe in the power of collaboration and open-source, and I'm always eager to learn and contribute to exciting projects.
 
-## 🔭 Currently Working On
-
 I'm currently working on honing my skills becoming a software engineering of the highest class . I'm aiming to leverage the power of computers to solve real-world problems.
 
-## 🌱 Learning Journey
 
 I'm on an exciting learning journey, constantly expanding my knowledge and exploring new technologies. Currently, I'm focusing on:
 
@@ -20,12 +17,8 @@ I'm on an exciting learning journey, constantly expanding my knowledge and explo
 
 Looking for it..
 
-## 📫 Get in Touch
+You can reach out to me through the following channels:
 
-I'm always excited to connect with fellow developers and collaborate on interesting projects. You can reach out to me through the following channels:
-
-- Email: 
-- LinkedIn: 
 - Twitter: https://twitter.com/Uwhyii
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas. Let's create something amazing together!
